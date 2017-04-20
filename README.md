@@ -1,4 +1,7 @@
-# test coverage for  [touch (v1.0.0)](https://github.com/isaacs/node-touch#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-touch.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-touch) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-touch.svg)](https://travis-ci.org/npmtest/node-npmtest-touch)
+# npmtest-touch
+
+#### basic test coverage for  [touch (v1.0.0)](https://github.com/isaacs/node-touch#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-touch.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-touch) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-touch.svg)](https://travis-ci.org/npmtest/node-npmtest-touch)
+
 #### like touch(1) in node
 
 [![NPM](https://nodei.co/npm/touch.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/touch)
